@@ -7,7 +7,7 @@ color: #666;
 background: #fff url(img/bg.gif) center repeat-y;
 }
 #container {
-width: 750px; /*750*/
+width: 750px;
 margin: 0 auto;
 padding: 0;
 border: 5px solid #fff;
@@ -18,7 +18,7 @@ height:150px;
 padding: 0;
 margin: 0;
 color: #000;
-/*background: #fff url(img/head01.png) no-repeat;*/
+background: #fff url(img/head.jpg) no-repeat;
 }
 #banner h1 {
 margin: 0 0 10px 10px;
@@ -37,7 +37,7 @@ width:735px;
 padding: 0 0 1.75em 1em;
 margin:0;
 list-style:none;
-line-height:10em;
+line-height:1em;
 }
 #globalnav li {
 float:left;
@@ -133,13 +133,13 @@ background: transparent url(img/bg3.gif) no-repeat;
 
 			/*MAIN CONTENT*/
 #content {
-margin: 0 0 0 185px;
+margin: 0 0 0 240px;
 padding: 0;
 }
 			/*LEFT SIDEBAR*/
 #sidebar {
 float: left;
-width: 175px;
+width: 220px;
 margin: 0 10px 0 0;
 padding: 0;
 }
@@ -208,8 +208,8 @@ border: 1px solid #556b2F;
 }
 div.scroll {
 overflow: auto;
-width: 550px;
-height: 50em;
+width: 228px;
+height: 10em;
 margin: 5px 0 10px 0;
 padding: 0.3em;
 color: #556C9A;
