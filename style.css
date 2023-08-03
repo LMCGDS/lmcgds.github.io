@@ -3,14 +3,15 @@ margin: 0;
 padding: 0;
 font: 73% "Trebuchet MS", verdana, arial, tahoma, sans-serif;
 line-height: 1.7em;
-color: #666;
-background: #fff url(img/bg.gif) center repeat-y;
+color: #000000;
+background: #f8f8f8;
 }
+
 #container {
-width: 750px; /*750*/
+width: 900px; /*750*/
 margin: 0 auto;
 padding: 0;
-border: 5px solid #fff;
+border: 10px solid #dcdcdc;
 }
 			/*TOP BANNER*/
 #banner {
