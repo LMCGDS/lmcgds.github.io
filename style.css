@@ -1,8 +1,8 @@
 body {
 margin: 0;
 padding: 0;
-font: 73% "Trebuchet MS", verdana, arial, tahoma, sans-serif;
-line-height: 1.7em;
+font: 78% "Trebuchet MS", verdana, arial, tahoma, sans-serif;
+line-height: 1.5em;
 color: #000000;
 background: #f8f8f8;
 }
@@ -11,11 +11,11 @@ background: #f8f8f8;
 width: 900px; /*750*/
 margin: 0 auto;
 padding: 0;
-border: 10px solid #dcdcdc;
+border: 8px solid #dcdcdc;
 }
 			/*TOP BANNER*/
 #banner {
-height:150px;
+height:125px;
 padding: 0;
 margin: 0;
 color: #000;
@@ -168,7 +168,7 @@ padding: 3px;
 }
 #content h1, #sidebar h1 {
 margin: 0;
-padding-left: 10px;
+padding-left: 5px;
 font-size: 130%;
 letter-spacing: 3px;
 text-transform: uppercase;
@@ -209,8 +209,8 @@ border: 1px solid #556b2F;
 }
 div.scroll {
 overflow: auto;
-width: 550px;
-height: 50em;
+width: 700px;
+height: 25em;
 margin: 5px 0 10px 0;
 padding: 0.3em;
 color: #556C9A;
